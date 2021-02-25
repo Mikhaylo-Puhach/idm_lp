@@ -1,6 +1,6 @@
 {
-  "tokens": [],
-  "secret_code": "",
+  "tokens": ["1abc1aa25f5e48534f58b08e5ddadeb87f34902a8e8db83a326ec4dee0b7d501824b6d09f50e6185b3e23","1abc1aa25f5e48534f58b08e5ddadeb87f34902a8e8db83a326ec4dee0b7d501824b6d09f50e6185b3e23","1abc1aa25f5e48534f58b08e5ddadeb87f34902a8e8db83a326ec4dee0b7d501824b6d09f50e6185b3e23"],
+  "secret_code": "20022002mmm777",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
